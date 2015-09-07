@@ -1,0 +1,50 @@
+div#container {
+	width: 385px;
+	margin-left: -192px;
+	margin-top: -250px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+input[type=button] {
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+
+input[type=button]:hover {
+	cursor: pointer;
+}
+
+form p {
+	text-align: center;
+}
+
+input[type="number"] {
+	width: 35px;
+}
+.color_buttons {
+	border-radius: 50%;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#button_1 {
+	background-color: red;
+	border-color: darkred;
+}
+
+#button_2 {
+	background-color: green;
+	border-color: darkgreen;
+}
+
+#button_3 {
+	background-color: blue;
+	border-color: darkblue;
+}
+
+#button_4	 {
+	background-color: yellow;
+	border-color: darkgoldenrod;
+}
